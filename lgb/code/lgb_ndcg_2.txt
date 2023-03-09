@@ -1,0 +1,63 @@
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 2000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.786190155567542
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 3000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.793997243778252
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.832462673608934
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 5000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.821078533721208
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 5000, 'learning_rate': 0.001, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.78610373690996
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 7, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.744480182575614
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 4, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.83876290096731
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 25, 'max_depth': 4, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.83876290096731
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 25, 'max_depth': 5, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.867977760448024
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 20, 'max_depth': 5, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.83579950249706
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 30, 'max_depth': 5, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.766080756503033
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 25, 'max_depth': 5, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.831418201043213
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.847986961428129
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.898570287431669
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.899552265864607
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 25, 'max_depth': 5, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.821844422418826
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 40, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.876380764466996
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 35, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.81450295021447
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.811260280495254
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.888348318658062
+
+{'task': 'train', 'boosting_type': 'gbdt', 'objective': 'lambdarank', 'metric': 'ndcg', 'max_position': 10, 'metric_freq': 100, 'train_metric': False, 'ndcg_at': [10], 'max_bin': 255, 'num_iterations': 4000, 'learning_rate': 0.005, 'num_leaves': 31, 'max_depth': 6, 'feature_fraction': 0.8, 'tree_learner': 'serial', 'min_data_in_leaf': 30, 'verbose': 2}
+average 10@dcg: 9.899552265864607
